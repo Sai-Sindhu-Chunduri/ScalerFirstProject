@@ -22,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2kCfsqUdwZi0vLuxhis23Teo9zM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,13 +34,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.org.example.oops_2.p1.Main.executor": "Run",
+    "Application.org.example.oops_2.p2.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.org.example.oops_2.p2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.oops_1.Main" />
       <module name="ScalerFirstProject" />
@@ -54,8 +56,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.example.oops_2.p1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.oops_2.p1.Main" />
+      <module name="ScalerFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.oops_2.p1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.oops_2.p2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.oops_2.p2.Main" />
+      <module name="ScalerFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.oops_2.p2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.oops_2.p2.Main" />
+        <item itemvalue="Application.org.example.oops_2.p1.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
